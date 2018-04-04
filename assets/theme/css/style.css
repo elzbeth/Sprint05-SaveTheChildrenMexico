@@ -68,6 +68,10 @@ section {
     right: 0;
     top: 0; }
 
+.text-red{
+  color: rgba(171,5,5,1);
+}
+
 .hidden {
   visibility: hidden; }
 
