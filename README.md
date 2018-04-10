@@ -10,22 +10,22 @@ Elevar el radio de conversión de visitantes a donadores que llegan a la landing
 
 ### EQUIPO
 
-  ** Tania Sosa **
+  **Tania Sosa**
     *UX Researcher*
 
-  ** Karina Quesada **
+  **Karina Quesada**
     *UX Researcher*
 
-  ** Jazmin López **
+  **Jazmin López**
     *UX Researcher*
 
-  ** Carmen Vega **
+  **Carmen Vega**
     *UX Designer*
 
-  ** Adriana Dillarza **
+  **Adriana Dillarza**
     *UX Designer*
 
-  ** Elzbeth Blanco **
+  **Elzbeth Blanco**
     *Product Owner*
 
 
@@ -158,15 +158,15 @@ Entre los resultados de las investigaciones anteriores destacaron los siguientes
 
 ### SOLUCIONES
 
-  - ** BACKLOG **
+  - **BACKLOG**
 
 ![backlog](assets/images/backlog.png)
 
-  - ** SKETCH. **
+  - **SKETCH**
 
 ![mockup landing](https://user-images.githubusercontent.com/32877064/37888917-38154670-3087-11e8-9526-5638d852e781.png)
 
-  - ** LANDING PAGE. **
+  - **LANDING PAGE**
 
 ** Es importante remarcar que no se entregó un prototipo, sino una página completa con funcionalidad y además con la integración de herramientas como Google Analytics, Hubspot y Hotjar facilitando su uso para establecer y obtener métricas que permitan la optimización constante del proyecto. **
 
