@@ -5,7 +5,7 @@
 
 ## OBJETIVO:
 
-** Elevar el radio de conversión de visitantes a donadores que llegan a la landing page de Save The Children México a través de la publicidad pagada en GoogleAds. **
+Elevar el radio de conversión de visitantes a donadores que llegan a la landing page de Save The Children México a través de la publicidad pagada en GoogleAds.
 
 
 ### EQUIPO
@@ -64,7 +64,7 @@ Al tratarse de una organización que representa una causa de fines altruistas er
 
 Cada miembro del equipo elaboró un perfil de usuario basados en los datos que nos proporciono Save The Children sobre donadores actuales y a partir de ellos se selecciono uno que representara al mayor número de usuarios provenientes del canal de GoogleAds.
 
-![userpersona](assets/images/userpersonas.png)
+![userpersona](https://user-images.githubusercontent.com/32877064/37888935-4bf205ca-3087-11e8-853e-aeefea4a041c.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ Entre los resultados de las investigaciones anteriores destacaron los siguientes
   - Nuestros usuarios opinaron que desearían ver imágenes más positivas de los niños
   - Para los usuarios es importante sentir cómo impacta su donativo en la vida de los pequeños.
 
-![insights](assets/images/insights.png)
+![insights](https://user-images.githubusercontent.com/32877064/37888541-490649ae-3085-11e8-8219-a698bd9d91b1.png))
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
