@@ -172,11 +172,8 @@ Entre los resultados de las investigaciones anteriores destacaron los siguientes
 
 ![copia de cap1](https://user-images.githubusercontent.com/32877064/37888912-2dfc92a6-3087-11e8-9445-d9a9afcf762a.png)
 
-  - ** SISTEMA DE DISEÑO **
 
-![sistema de diseño](https://user-images.githubusercontent.com/)
-
-  - ** WIREFRAME APP DEFENSORES DE LA NIÑEZ. **
+  - **WIREFRAME APP DEFENSORES DE LA NIÑEZ.**
 
 ![wireframe_iphone_01](https://user-images.githubusercontent.com/32877064/37888545-496b1762-3085-11e8-9403-bd042e8c935a.png)
 
