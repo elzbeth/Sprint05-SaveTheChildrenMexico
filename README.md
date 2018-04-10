@@ -1,5 +1,5 @@
 # SAVE THE CHILDREN MÉXICO
-
+![little-boy-standing-portrait-picture-id5084223961-612x408](https://user-images.githubusercontent.com/18369577/38585783-c7f8b7a8-3ce0-11e8-8bb1-f281d771ed04.jpg)
 * **Track:** _UX Specialization_
 * **Sprint 05:** _UX PROCESS_
 
